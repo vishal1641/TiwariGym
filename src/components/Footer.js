@@ -13,7 +13,7 @@ const Footer = () => (
     >
       <img src={Logo} alt="logo" style={{ width: "80px", height: "41px" }} />
       <Typography style={{ fontSize: "30px", fontWeight: "600" }}>
-        PowerPulse
+        TiwariGym
       </Typography>
     </Stack>
     <Typography
@@ -30,6 +30,7 @@ const Footer = () => (
       >
         Vishal Kumar Tiwari{" "}
       </a>
+      <p style={{ fontSize: "15px" }}>All right reserved @2024 TiwariGym.</p>
     </Typography>
   </Box>
 );
